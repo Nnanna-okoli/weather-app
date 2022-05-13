@@ -1,3 +1,9 @@
+# Developer Message
+Hi, I'm Nye the Developer who developed this cool weather app using an online tutorial (s/o: Tyler Potts). 
+The project includes a mixture of react, css and json fetch methods and languages. still learning but very enjoyable.
+To view - https://nye-weather-app.netlify.app/
+delivered 12/05/2022 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
